@@ -1,0 +1,16 @@
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Projects C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\Projects C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Projects C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\Tekla.Structures.Datatype.dll
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\Tekla.Structures.dll
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\Tekla.Structures.Model.dll
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\Tekla.Structures.xml
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\Tekla.Structures.Datatype.xml
+E:\Projects C#\ConsoleApp1\ConsoleApp1\bin\Debug\Tekla.Structures.Model.xml
+E:\Projects C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
